@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825620244901",
+    "project_id": "phone-locator-6bc49",
+    "storage_bucket": "phone-locator-6bc49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825620244901:android:558c4a006f517b4d3d604c",
+        "android_client_info": {
+          "package_name": "Com.KOJA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825620244901-4kbgj260a8baabuklibqcd6u97a4sidu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsLrjkWDE9LmPaovzkfiUJbbHT9zw7PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825620244901-4kbgj260a8baabuklibqcd6u97a4sidu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
